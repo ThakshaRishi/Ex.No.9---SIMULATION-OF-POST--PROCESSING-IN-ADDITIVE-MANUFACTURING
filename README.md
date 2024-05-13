@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![image](https://github.com/ThakshaRishi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/4c070387-388a-4771-9b37-b0ca02f46163)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 13-05-2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/ThakshaRishi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/40822f2c-b888-48e5-9724-f820c6056ef0)
+
+### Name: Thaksha Rishi
+### Register Number: 212223100058
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
