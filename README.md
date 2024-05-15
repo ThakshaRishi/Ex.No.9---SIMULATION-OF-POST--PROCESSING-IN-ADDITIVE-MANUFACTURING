@@ -47,6 +47,28 @@
 
 ## Output:
 
+## Support Removal Process
+
+![image](https://github.com/ThakshaRishi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/5130a443-3666-440e-a8e2-320c60ee2b91)
+
+![image](https://github.com/ThakshaRishi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/655a38b5-9f98-4cd7-a67e-75d73674ff5e)
+
+
+## UV Curing of 3D printed part
+
+![image](https://github.com/ThakshaRishi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/7ac9cd3d-39ab-4943-ab1b-6c902616f528)
+
+![image](https://github.com/ThakshaRishi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/16e8c34c-4947-4f55-82b3-ffb56aee6a37)
+
+
+## Heat Treatment of 3D printed part
+
+![image](https://github.com/ThakshaRishi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/94e17808-a7b1-4d68-b616-b7f476b02263)
+
+![image](https://github.com/ThakshaRishi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/c03ae937-89c3-47ef-8ff7-62a21af9a921)
+
+
+
 ![image](https://github.com/ThakshaRishi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/40822f2c-b888-48e5-9724-f820c6056ef0)
 
 ### Name: Thaksha Rishi
